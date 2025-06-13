@@ -1,0 +1,16 @@
+[
+    {
+        "description": "Product Explanation",
+        "date": "2025-06-25",
+        "time": "09:02",
+        "ringtone": "Chime",
+        "category": "Business"
+    },
+    {
+        "description": "Cisco zoom meeting",
+        "date": "2025-07-04",
+        "time": "10:00",
+        "ringtone": "Chime",
+        "category": "Business"
+    }
+]
